@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kanikakansal/static/css/main.f0921772.css",
+    "main.js": "/kanikakansal/static/js/main.66b46a97.js",
+    "static/js/787.32d91862.chunk.js": "/kanikakansal/static/js/787.32d91862.chunk.js",
+    "static/media/girlgirl.gif": "/kanikakansal/static/media/girlgirl.a50a087d3e8aad894f33.gif",
+    "static/media/kanidp.png": "/kanikakansal/static/media/kanidp.e74263618f190e174d02.png",
+    "static/media/fitness.jpeg": "/kanikakansal/static/media/fitness.5d230533301eb23def51.jpeg",
+    "static/media/voiceselfie.jpeg": "/kanikakansal/static/media/voiceselfie.bdec4aae45107a9e8d4e.jpeg",
+    "static/media/kwitter.jpeg": "/kanikakansal/static/media/kwitter.79eb7a392c751d7b86b0.jpeg",
+    "static/media/Penguin.jpeg": "/kanikakansal/static/media/Penguin.d0e5f0a508f83cfa4856.jpeg",
+    "index.html": "/kanikakansal/index.html",
+    "main.f0921772.css.map": "/kanikakansal/static/css/main.f0921772.css.map",
+    "main.66b46a97.js.map": "/kanikakansal/static/js/main.66b46a97.js.map",
+    "787.32d91862.chunk.js.map": "/kanikakansal/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0921772.css",
+    "static/js/main.66b46a97.js"
+  ]
+}
